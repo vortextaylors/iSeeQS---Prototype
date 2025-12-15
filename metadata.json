@@ -1,0 +1,5 @@
+{
+  "name": "ISeeQS",
+  "description": "A Quantity Surveying visualization tool allowing students to align 3D models with 2D drawings and generate AR previews.",
+  "requestFramePermissions": []
+}
